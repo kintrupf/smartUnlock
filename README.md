@@ -8,7 +8,7 @@ So in many cases you don't need to enter your PIN code when switching the displa
 Pre-requisites
 
     An Android phone
-    Automagic Premium
-https://play.google.com/store/apps/details?id=ch.gridvision.ppam.androidautomagic
+    [Automagic Premium]
 
 
+[Automagic Premium]:https://play.google.com/store/apps/details?id=ch.gridvision.ppam.androidautomagic
